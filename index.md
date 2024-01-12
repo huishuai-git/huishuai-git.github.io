@@ -4,19 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+
+Hello! This is Huishuai Zhang. I am an assistant professor at [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn), Peking Universy. Before joining academia I was a Principal Researcher at Microsoft Research Asia. My research work aims at understanding the fundamental limits of machine learning, designing efficient and robust learning algorithms.
+
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Large Language Model**, **Machine Learning:**, **Differential Privacy**
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
