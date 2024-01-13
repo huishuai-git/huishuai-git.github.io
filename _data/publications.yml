@@ -20,3 +20,50 @@ main:
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
+
+  - title: "Stabilize Deep ResNet with A Sharp Scaling Factor τ"
+    authors: "Huishuai Zhang, Da Yu, Mingyang Yi, Wei Chen, Tie-Yan Liu"
+    journal_short: "CCF-B"
+    journal: "Machine Learning, Springer, 2022"
+    notes: ""
+
+  - title: "Stabilize Deep ResNet with A Sharp Scaling Factor τ"
+    authors: "Huishuai Zhang, Da Yu, Mingyang Yi, Wei Chen, Tie-Yan Liu"
+    journal: "Machine Learning, Springer, 2022"
+    notes: "CCF-B"
+
+  - title: "Understanding generalization error of SGD in nonconvex optimization"
+    authors: "Yi Zhou, Yingbin Liang, Huishuai Zhang"
+    journal: "Machine Learning, Springer, 2022"
+    notes: "CCF-B"
+
+  - title: "Convergence of Distributed Stochastic Variance Reduced Methods without Sampling Extra Data"
+    authors: "Shicong Cen, Huishuai Zhang, Yuejie Chi, Wei Chen, Tie-Yan Liu"
+    journal: "IEEE Transactions on Signal Processing, vol. 68, pp. 3976-3989, 2020"
+    notes: "IEEE Trans. on Signal Processing"
+
+  - title: "Nonconvex Low-Rank Matrix Recovery with Arbitrary Outliers via Median-Truncated Gradient Descent"
+    authors: "Yuanxin Li, Yuejie Chi, Huishuai Zhang, Yingbin Liang"
+    journal: "Information and Inference: A Journal of the IMA, vol. 9, no. 2, pp. 289-325, 2020"
+
+  - title: "Provable nonconvex phase retrieval with outliers: A median approach"
+    authors: "Huishuai Zhang, Yuejie Chi, Yingbin Liang"
+    journal: "IEEE Transactions on Information Theory, 2018"
+    notes: "CCF-A"
+
+  - title: "Reshaped Wirtinger flow and its incremental method for solving quadratic system of equations"
+    authors: "Huishuai Zhang, Yi Zhou, Yingbin Liang, Yuejie Chi"
+    journal: "Journal of Machine Learning Research, 2017"
+    notes: "CCF-A"
+
+  - title: "Multi-key generation over a cellular model with a helper"
+    authors: "Huishuai Zhang, Yingbin Liang, Lifeng Lai, Shlomo Shamai"
+    journal: "IEEE Transactions on Information Theory, 2017"
+    notes: "CCF-A"
+
+  - title: "The capacity region of the source-type model for secret key and private key generation"
+    authors: "Huishuai Zhang, Lifeng Lai, Yingbin Liang, Hua Wang"
+    journal: "IEEE Transaction on Information Theory, 60(10):6389-6398, October 2014"
+    notes: "CCF-A"
+
+
