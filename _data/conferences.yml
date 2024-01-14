@@ -21,49 +21,138 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
-  - title: "Stabilize Deep ResNet with A Sharp Scaling Factor τ"
-    authors: "Huishuai Zhang, Da Yu, Mingyang Yi, Wei Chen, Tie-Yan Liu"
-    # journal_short: "CCF-B"
-    journal: "Machine Learning, Springer, 2022"
-    # notes: ""
 
-  - title: "Stabilize Deep ResNet with A Sharp Scaling Factor τ"
-    authors: "Huishuai Zhang, Da Yu, Mingyang Yi, Wei Chen, Tie-Yan Liu"
-    journal: "Machine Learning, Springer, 2022"
-    # notes: "CCF-B"
+  - title: "Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions"
+    authors: "Bohan Wang, Huishuai Zhang, Zhi-Ming Ma, Wei Chen"
+    conference: "Conference on Learning Theory (COLT), 2023"
+    notes: "CCF-B"
 
-  - title: "Understanding generalization error of SGD in nonconvex optimization"
-    authors: "Yi Zhou, Yingbin Liang, Huishuai Zhang"
-    journal: "Machine Learning, Springer, 2022"
-    # notes: "CCF-B"
+  - title: "Exploring the Limits of Differentially Private Deep Learning with Group-wise Clipping"
+    authors: "Jiyan He, Xuechen Li, Da Yu, Huishuai Zhang, Janardhan Kulkarni, Yin Tat Lee, Arturs Backurs, Nenghai Yu, Jiang Bian"
+    conference: "International Conference on Learning Representations (ICLR), 2023"
+    notes: ""
 
-  - title: "Convergence of Distributed Stochastic Variance Reduced Methods without Sampling Extra Data"
-    authors: "Shicong Cen, Huishuai Zhang, Yuejie Chi, Wei Chen, Tie-Yan Liu"
-    journal: "IEEE Transactions on Signal Processing, vol. 68, pp. 3976-3989, 2020"
-    # notes: "IEEE Trans. on Signal Processing"
+  - title: "Denoising Masked AutoEncoders are Certifiable Robust Vision Learners"
+    authors: "Quanlin Wu, Hang Ye, Yuntian Gu, Huishuai Zhang, Liwei Wang, Di He"
+    conference: "International Conference on Learning Representations (ICLR), 2023"
+    notes: ""
 
-  - title: "Nonconvex Low-Rank Matrix Recovery with Arbitrary Outliers via Median-Truncated Gradient Descent"
-    authors: "Yuanxin Li, Yuejie Chi, Huishuai Zhang, Yingbin Liang"
-    journal: "Information and Inference: A Journal of the IMA, vol. 9, no. 2, pp. 289-325, 2020"
+  - title: "Adversarial Noises Are Linearly Separable for (Nearly) Random Neural Networks"
+    authors: "Huishuai Zhang, Da Yu, Yiping Lu, Di He"
+    conference: "AISTATS, 2023"
+    notes: ""
 
-  - title: "Provable nonconvex phase retrieval with outliers: A median approach"
+  - title: "UADB: Unsupervised Anomaly Detection Booster"
+    authors: "Hangting Ye, Zhining Liu, Xinyi Shen, Wei Cao, Shun Zheng, Xiaofan Gui, Huishuai Zhang, Yi Chang, Jiang Bian"
+    conference: "ICDE, 2023"
+    notes: "CCF-A"
+
+  - title: "Similarity Distribution based Membership Inference Attack on Person Re-identification"
+    authors: "Junyao Gao, Xinyang Jiang, Huishuai Zhang, Yifan Yang, Shuguang Dou, Dongsheng Li, Duoqian Miao, Cheng Den, Cairong Zhao"
+    conference: "AAAI, 2023"
+    notes: "CCF-A"
+
+  - title: "Does Momentum Change the Implicit Regularization on Separable Data?"
+    authors: "Bohan Wang, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu"
+    conference: "NeurIPS, 2022"
+    notes: "CCF-A"
+
+  - title: "Adaptive inertia: Disentangling the effects of adaptive learning rate and momentum"
+    authors: "Zeke Xie, Xinrui Wang, Huishuai Zhang, Issei Sato, Masashi Sugiyama"
+    conference: "ICML, 2022"
+    notes: "CCF-A"
+
+  - title: "Availability attacks create shortcuts"
+    authors: "Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu"
+    conference: "KDD, 2022"
+    notes: "CCF-A"
+
+  - title: "Two Coupled Rejection Metrics Can Tell Adversarial Examples Apart"
+    authors: "Tianyu Pang, Huishuai Zhang, Di He, Yinpeng Dong, Hang Su, Wei Chen, Jun Zhu, Tie-Yan Liu"
+    conference: "CVPR, 2022"
+    notes: "CCF-A"
+
+  - title: "Differentially private fine-tuning of language models"
+    authors: "Da Yu, Saurabh Naik, Arturs Backurs, Sivakanth Gopi, Huseyin A Inan, Gautam Kamath, Janardhan Kulkarni, Yin Tat Lee andre Manoel, Lukas Wutschitz, Sergey Yekhanin, Huishuai Zhang"
+    conference: "International Conference on Learning Representations (ICLR), 2022"
+    notes: ""
+
+  - title: "Optimizing Information-theoretical Generalization Bound via Anisotropic Noise of SGLD"
+    authors: "Bohan Wang, Huishuai Zhang, Jieyu Zhang, Qi Meng, Wei Chen, Tie-Yan Liu"
+    conference: "NeurIPS, 2021"
+    notes: "CCF-A"
+
+  - title: "Large scale private learning via low-rank reparametrization"
+    authors: "Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu"
+    conference: "ICML, 2021"
+    notes: "CCF-A"
+
+  - title: "Do not Let Privacy Overbill Utility: Gradient Embedding Perturbation for Private Learning"
+    authors: "Da Yu, Huishuai Zhang, Wei Chen, Tie-Yan Liu"
+    conference: "International Conference on Learning Representations (ICLR), 2021"
+    notes: ""
+
+  - title: "How Does Data Augmentation Affect Privacy in Machine Learning?"
+    authors: "Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu"
+    conference: "AAAI, 2021"
+    notes: "CCF-A"
+
+  - title: "On Layer Normalization in the Transformer Architecture"
+    authors: "Ruibin Xiong, Yunchang Yang, Di He, Kai Zheng, Shuxin Zheng, Chen Xing, Huishuai Zhang, Yanyan Lan, Liwei Wang, Tie-Yan Liu"
+    conference: "ICML, 2020"
+    notes: "CCF-A"
+
+  - title: "Gradient Perturbation is Underrated for Differentially Private Convex Optimization"
+    authors: "Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu"
+    conference: "IJCAI, 2020"
+    notes: "CCF-A"
+
+  - title: "SGD Converges to Global Minimum in Deep Learning via Star-convex Path"
+    authors: "Yi Zhou, Junjie Yang, Huishuai Zhang, Yingbin Liang"
+    conference: "International Conference on Learning Representations (ICLR), 2019"
+    notes: ""
+
+  - title: "G-SGD: Optimizing ReLU Neural Networks in its Positively Scale-Invariant Space"
+    authors: "Qi Meng, Shuxin Zheng, Huishuai Zhang, Wei Chen, Qiwei Ye, Zhi-Ming Ma, Nenghai Yu, Tie-Yan Liu"
+    conference: "International Conference on Learning Representations (ICLR), 2019"
+    notes: ""
+
+  - title: "Capacity Control of ReLU Neural Networks by Basis-path Norm"
+    authors: "Qi Meng, Shuxin Zheng, Huishuai Zhang, Nenghai Yu, Tie-Yan Liu, Wei Chen"
+    conference: "AAAI Conference on Artificial Intelligence, 2019"
+    notes: "CCF-A"
+
+  - title: "BN-invariant Sharpness Regularizes the Training Model to Better Generalization"
+    authors: "Mingyang Yi, Huishuai Zhang, Wei Chen, Zhiming Ma, Tie-Yan Liu"
+    conference: "IJCAI, 2019"
+    notes: "CCF-A"
+
+  - title: "On the local Hessian in back-propagation"
+    authors: "Huishuai Zhang, Wei Chen, Tie-Yan Liu"
+    conference: "Neural Information Processing Systems (NeurIPS), December 2018"
+    notes: "CCF-A"
+
+  - title: "Reshaped Wirtinger flow for solving quadratic system of equations"
+    authors: "Huishuai Zhang, Yingbin Liang"
+    conference: "Neural Information Processing System (NeurIPS), Barcelona, Spain, December 2016"
+    notes: "CCF-A"
+
+  - title: "Accelerated method for solving quadratic system of equations"
+    authors: "Yi Zhou, Huishuai Zhang, Yingbin Liang"
+    conference: "Allerton Conference, Champaign, Illinois, September 2016"
+    notes: "Invited"
+
+  - title: "On orthogonal compressive sensing"
+    authors: "Yi Zhou, Huishuai Zhang, Yingbin Liang"
+    conference: "Allerton Conference on Communication, Control and Computing, Champaign, Illinois, September 2016"
+    notes: ""
+
+  - title: "Provable non-convex phase retrieval with outliers: Median truncated Wirtinger flow"
     authors: "Huishuai Zhang, Yuejie Chi, Yingbin Liang"
-    journal: "IEEE Transactions on Information Theory, 2018"
-    # notes: "CCF-A"
+    conference: "ICML, New York City, USA, June 2016"
+    notes: "CCF-A"
 
-  - title: "Reshaped Wirtinger flow and its incremental method for solving quadratic system of equations"
-    authors: "Huishuai Zhang, Yi Zhou, Yingbin Liang, Yuejie Chi"
-    journal: "Journal of Machine Learning Research, 2017"
-    # notes: "CCF-A"
+  - title: "Analysis of robust PCA via local incoherence"
 
-  - title: "Multi-key generation over a cellular model with a helper"
-    authors: "Huishuai Zhang, Yingbin Liang, Lifeng Lai, Shlomo Shamai"
-    journal: "IEEE Transactions on Information Theory, 2017"
-    # notes: "CCF-A"
-
-  - title: "The capacity region of the source-type model for secret key and private key generation"
-    authors: "Huishuai Zhang, Lifeng Lai, Yingbin Liang, Hua Wang"
-    journal: "IEEE Transaction on Information Theory, 60(10):6389-6398, October 2014"
-    # notes: "CCF-A"
 
 
