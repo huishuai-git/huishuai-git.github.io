@@ -153,6 +153,32 @@ main:
     notes: "CCF-A"
 
   - title: "Analysis of robust PCA via local incoherence"
+    authors: "Huishuai Zhang, Yi Zhou, Yingbin Liang"
+    conference: "Neural Information Processing Systems (NIPS), Montreal, Canada, December 2015"
+    notes: "CCF-A"
 
+  - title: "Secret key capacity: Talk or keep silent?"
+    authors: "Huishuai Zhang, Yingbin Liang, Lifeng Lai"
+    conference: "Proc. IEEE International Symposium on Information Theory (ISIT), Hong Kong, China, June 2015"
+    notes: ""
 
+  - title: "Two-key generation for a cellular model with a helper"
+    authors: "Huishuai Zhang, Yingbin Liang, Lifeng Lai, Shlomo Shamai"
+    conference: "Proc. IEEE International Symposium on Information Theory (ISIT), Hong Kong, China, June 2015"
+    notes: ""
+
+  - title: "Key capacity region for a cellular source model"
+    authors: "Huishuai Zhang, Yingbin Liang, Lifeng Lai"
+    conference: "Proc. IEEE Information Theory Workshop (ITW), Hobart, Tasmania, Australia, November 2014"
+    notes: ""
+
+  - title: "Helper-assisted asymmetric two key generation"
+    authors: "Huishuai Zhang, Yingbin Liang, Lifeng Lai"
+    conference: "Proc. Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, USA, November 2014"
+    notes: "Invited"
+
+  - title: "The secret key-private key generation over three terminals: Capacity region"
+    authors: "Huishuai Zhang, Lifeng Lai, Yingbin Liang, Hua Wang"
+    conference: "Proc. IEEE International Symposium on Information Theory (ISIT), Honolulu, HI, USA, June 2014"
+    notes: ""
 
