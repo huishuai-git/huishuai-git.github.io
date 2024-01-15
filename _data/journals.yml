@@ -21,11 +21,6 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
-  - title: "Stabilize Deep ResNet with A Sharp Scaling Factor τ"
-    authors: "Huishuai Zhang, Da Yu, Mingyang Yi, Wei Chen, Tie-Yan Liu"
-    # journal_short: "CCF-B"
-    journal: "Machine Learning, Springer, 2022"
-    # notes: ""
 
   - title: "Stabilize Deep ResNet with A Sharp Scaling Factor τ"
     authors: "Huishuai Zhang, Da Yu, Mingyang Yi, Wei Chen, Tie-Yan Liu"

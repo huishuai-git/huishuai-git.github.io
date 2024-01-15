@@ -1,7 +1,18 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<!-- <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="journals">
-<ol class="bibliography">
+<ol class="bibliography"> -->
+
+<h2 id="publications" style="margin: 20px 0px 10px;">Publications</h2> <!-- Adjust the margins as needed -->
+
+<!-- Sub-item "Journals" under "Publications" -->
+<h3 id="journals" style="margin: 10px 0px 10px;">Journals</h3> <!-- Add this line -->
+
+<div class="journals">
+    <ol class="bibliography">
+        <!-- The rest of your code for listing the publications -->
+    </ol>
+</div>
 
 {% for link in site.data.journals.main %}
 
@@ -53,9 +64,18 @@
 </div>
 
 
-<h2 id="conferences" style="margin: 2px 0px -15px;">Conferences</h2>
+<!-- <h2 id="conferences" style="margin: 2px 0px -15px;">Conferences</h2>
 <div class="conferences">
-<ol class="bibliography">
+<ol class="bibliography"> -->
+
+<!-- Sub-item "Journals" under "Publications" -->
+<h3 id="conferences" style="margin: 10px 0px 10px;">Conference Proceedings</h3> <!-- Add this line -->
+
+<div class="conferences">
+    <ol class="bibliography">
+        <!-- The rest of your code for listing the publications -->
+    </ol>
+</div>
 
 {% for link in site.data.conferences.main %}
 
