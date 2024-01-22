@@ -22,13 +22,13 @@ main:
   #   image: ./assets/img/teaser_example.png
 
 
-  - title: Provable Benefit of Adaptivity in Adam
-    authors: Bohan Wang, Yushun Zhang, Huishuai Zhang, Qi Meng, Zhi-Ming Ma, Tie-Yan Liu and Wei Chen
-    journal: ArXiv.
+  - title: "Provable Benefit of Adaptivity in Adam"
+    authors: "Bohan Wang, Yushun Zhang, Huishuai Zhang, Qi Meng, Zhi-Ming Ma, Tie-Yan Liu and Wei Chen"
+    journal: "ArXiv"
   
-  - title: Normalized/clipped sgd with perturbation for differentially private non-convex optimization.
-    authors: Xiaodong Yang, Huishuai Zhang, Wei Chen and Tie-Yan Liu. Normalized/clipped sgd with perturbation for differentially private non-convex optimization. 
-    journal: ArXiv, submitted to TMLR
+  - title: "Normalized/clipped sgd with perturbation for differentially private non-convex optimization"
+    authors: "Xiaodong Yang, Huishuai Zhang, Wei Chen and Tie-Yan Liu" 
+    journal: "ArXiv, submitted to TMLR"
     # notes: "CCF-B"
 
  

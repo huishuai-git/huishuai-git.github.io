@@ -24,24 +24,24 @@ main:
 
   - title: "On the Generalization Properties of Diffusion Models"
     authors: "Puheng Li, Zhong Li, Huishuai Zhang^*, Jiang Bian"
-    conference: ""NeurIPS, 2023"
+    conference: "Conference on Neural Information Processing Systems (NeurIPS), 2023"
     notes: "CCF-A"
 
   - title: "DiffKendall: A Novel Approach for Few-Shot Learning with Differentiable Kendall's Rank Correlation"
     authors: "Kaipeng Zheng, Huishuai Zhang, Weiran Huang"
-    conference: Conference on Neural Information Processing Systems (NeurIPS), 2023.
+    conference: "Conference on Neural Information Processing Systems (NeurIPS), 2023"
 
   - title: "FD-Align: Feature Discrimination Alignment for Fine-tuning Pre-Trained Models in Few-Shot Learning"
-    authors: Kun Song, Huimin Ma, Bochao Zou, Huishuai Zhang, Weiran Huang
-    conference: Conference on Neural Information Processing Systems (NeurIPS), 2023.
+    authors: "Kun Song, Huimin Ma, Bochao Zou, Huishuai Zhang, Weiran Huang"
+    conference: "Conference on Neural Information Processing Systems (NeurIPS), 2023"
 
   - title: "Large Catapults in Momentum Gradient Descent with Warmup: An Empirical Study"
-    authors: Prin Phunyaphibarn, Junghyun Lee, Bohan Wang, Huishuai Zhang, Chulhee Yun
-    conference: NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning (Oral)
+    authors: "Prin Phunyaphibarn, Junghyun Lee, Bohan Wang, Huishuai Zhang, Chulhee Yun"
+    conference: "NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning (Oral)"
 
   - title: "Closing the gap between the upper bound and lower bound of Adam's iteration complexity"
     authors: "Bohan Wang, Jingwen Fu, Huishuai Zhang, Nanning Zheng, Wei Chen"
-    conference: NeurIPS, 2023.
+    conference: "Conference on Neural Information Processing Systems (NeurIPS), 2023"
 
   - title: "Convergence of AdaGrad for Non-convex Objectives: Simple Proofs and Relaxed Assumptions"
     authors: "Bohan Wang, Huishuai Zhang, Zhi-Ming Ma, Wei Chen"
