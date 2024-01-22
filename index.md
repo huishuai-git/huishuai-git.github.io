@@ -15,6 +15,9 @@ Hello! This is Huishuai Zhang. I am an assistant professor at [Wangxuan Institut
 
 ## News
 
+We have opening positions for PhDs and Research Interns (not limited to PKU, work online). If you are interested, please contact me freely!
+长期招收实习生（可远程校外实习, 申请2025年秋季入学博士/硕士的学生，建议先联系实习），如感兴趣请直接联系我！
+
 
 {% include_relative _includes/publications.md %}
 
