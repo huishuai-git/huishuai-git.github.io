@@ -21,9 +21,12 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
-
-  - title: "Provable Benefit of Adaptivity in Adam"
-    authors: "Bohan Wang, Yushun Zhang, Huishuai Zhang, Qi Meng, Zhi-Ming Ma, Tie-Yan Liu and Wei Chen"
+  - title: "Copyright Plug-in Authorization for Human Content Copyright Protection in Text-to-Image Model"
+    authors: "Chao Zhou, Huishuai Zhang, Jiang Bian, Weiming Zhang, Nenghai Yu"
+    journal: "ArXiv"
+    
+  - title: "Automatic Jailbreaking of the Text-to-Image Generative AI Systems"
+    authors: "Minseon Kim, Hyomin Lee, Boqing Gong, Huishuai Zhang and Sung Ju Hwang"
     journal: "ArXiv"
   
   - title: "Normalized/clipped sgd with perturbation for differentially private non-convex optimization"
