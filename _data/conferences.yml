@@ -21,7 +21,16 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
-
+  - title: "Randomly-reshuffled Adam can provably converge under non-uniform smoothness"
+    authors: "Bohan Wang, Yushun Zhang, Huishuai Zhang^*, Qi Meng, Ruoyu Sun, Zhi-Ming Ma, Tie-Yan Liu, Zhi-Quan Luo, Wei Chen"
+    conference: "KDD 2024"
+    notes: "CCF-A"
+    
+  - title: "Differentially Private Synthetic Data via Foundation Model APIs 2: Text"
+    authors: "Chulin Xie, Zinan Lin, Arturs Backurs, Sivakanth Gopi, Da Yu, Huseyin Inan, Harsha Nori, Haotian Jiang, Huishuai Zhang, Yin Tat Lee, Bo Li, Sergey Yekhanin"
+    conference: "ICML 2024"
+    notes: "CCF-A"
+    
   - title: "On the Generalization Properties of Diffusion Models"
     authors: "Puheng Li, Zhong Li, Huishuai Zhang^*, Jiang Bian"
     conference: "Conference on Neural Information Processing Systems (NeurIPS), 2023"
