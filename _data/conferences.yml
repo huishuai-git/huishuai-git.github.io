@@ -21,26 +21,51 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
-  - title: "English as Defense Proxy: Mitigating Multilingual Jailbreak via Eliciting English Safety Knowledge"
-    authors: "Zekai Zhang, Yiduo Guo, Jiuheng Lin, Shanghaoran Quan, Huishuai Zhang, Dongyan Zhao"
-    conference: "EMNLP 2025"
+
+
+  - title: "Synthesize Privacy-Preserving High-Resolution Images via Private Textual Intermediaries"
+    authors: "Haoxiang Wang, Zinan Lin, Da Yu, Huishuai Zhang^*"
+    conference: "Conference on Neural Information Processing Systems (NeurIPS), 2025"
     notes: "CCF-A"
 
-  - title: "VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format"
-    authors: "Yueqian Wang, Xiaojun Meng, Yuxuan Wang, Jianxin Liang, Jiansheng Wei, Huishuai Zhang, Dongyan Zhao"
+
+  - title: "AdamS: Momentum Itself Can Be A Normalizer for LLM Pretraining and Post-training"
+    authors: "Huishuai Zhang^$, Bohan Wang^$, Luoxin Chen"
     conference: "EMNLP 2025"
-    notes: "CCF-A"
+    notes: "CCF-B"
+
+    
+  - title: "English as Defense Proxy: Mitigating Multilingual Jailbreak via Eliciting English Safety Knowledge"
+    authors: "Zekai Zhang, Yiduo Guo, Jiuheng Lin, Shanghaoran Quan, Huishuai Zhang^*, Dongyan Zhao^*"
+    conference: "EMNLP 2025"
+    notes: "CCF-B"
+
+  - title: "VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format"
+    authors: "Yueqian Wang, Xiaojun Meng, Yuxuan Wang, Jianxin Liang, Jiansheng Wei, Huishuai Zhang^*, Dongyan Zhao^*"
+    conference: "EMNLP 2025"
+    notes: "CCF-B"
 
   - title: "ReMamba: Equip Mamba with Effective Long-Sequence Modeling"
     authors: "Danlong Yuan, Jiahao Liu, Bei Li, Huishuai Zhang, Jingang Wang, Xunliang Cai, Dongyan Zhao"
     conference: "EMNLP 2025"
-    notes: "CCF-A"
+    notes: "CCF-B"
 
   - title: "Understanding Visual Detail Hallucinations of Large Vision-Language Models"
-    authors: "Xiaoxi Sun, Jianxin Liang, Yueqian Wang, Huishuai Zhang, Dongyan Zhao"
+    authors: "Xiaoxi Sun, Jianxin Liang, Yueqian Wang, Huishuai Zhang^*, Dongyan Zhao^*"
     conference: "IJCAI 2025"
     notes: "CCF-A"
-  
+
+  - title: "Understanding Nonlinear Implicit Bias via Region Counts in Input Space"
+    authors: "Jingwei Li, Jing Xu, Zifan Wang, Huishuai Zhang, Jingzhao Zhang"
+    conference: "ICML 2025"
+    notes: "CCF-A"
+
+  - title: " Latent Preference Coding: Aligning Large Language Models via Discrete Latent Codes"
+    authors: "Zhuocheng Gong, Jian Guan, Wei Wu, Huishuai Zhang, Dongyan Zhao"
+    conference: "ICML 2025"
+    notes: "CCF-A"
+
+    
   - title: "Efficient Domain Continual Pretraining by Mitigating the Stability Gap"
     authors: "Yiduo Guo, Jie Fu, Huishuai Zhang, Dongyan Zhao"
     conference: "ACL 2025 (Volume 1 – Long Papers)"
@@ -49,11 +74,11 @@ main:
   - title: "ReasVQA: Advancing VideoQA with Imperfect Reasoning Process"
     authors: "Jianxin Liang, Xiaojun Meng, Huishuai Zhang, Yueqian Wang, Jiansheng Wei, Dongyan Zhao"
     conference: "NAACL 2025 (Long Papers)"
-    notes: "CCF-A"
+    notes: "CCF-B"
    
   - title: "xRAG: Extreme Context Compression for Retrieval-Augmented Generation with One Token"
-    authors: "Xiaoya Cheng, Xudong Wang, Xiaochuang Zhang, Tao Ge, Huishuai Zhang*"
-    conference: "NeurIPS 2024"
+    authors: "Xin Cheng, Xun Wang, Xingxing Zhang, Tao Ge, Si-Qing Chen, Furu Wei, Huishuai Zhang^*, Dongyan Zhao^*"
+    conference: "Conference on Neural Information Processing Systems (NeurIPS), 2024"
     notes: "CCF-A"
   
   - title: "Randomly-reshuffled Adam can provably converge under non-uniform smoothness"
