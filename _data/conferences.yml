@@ -24,7 +24,7 @@ main:
 
 
   - title: "Synthesize Privacy-Preserving High-Resolution Images via Private Textual Intermediaries"
-    authors: "Haoxiang Wang, Zinan Lin, Da Yu, Huishuai Zhang^*"
+    authors: "Haoxiang Wang, Zinan Lin, Da Yu, Huishuai Zhang$^*$"
     conference: "Conference on Neural Information Processing Systems (NeurIPS), 2025"
     notes: "CCF-A"
 
