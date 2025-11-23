@@ -21,6 +21,19 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
+  - title: "©Plug-in Authorization for Human Content Copyright Protection in Text-to-Image Model"
+    authors: "Chao Zhou^$, Huishuai Zhang^$, Jiang Bian, Weiming Zhang, Nenghai Yu"
+    journal: "Transactions on Machine Learning Research (TMLR), 2025"
+
+
+  - title: "Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent"
+    authors: "Da Yu, Gautam Kamath, Janardhan Kulkarni, Tie-Yan Liu, Jian Yin, Huishuai Zhang"
+    journal: "Transactions on Machine Learning Research (TMLR), 2024"
+    
+  - title: "Selective Pre-training for Private Fine-tuning"
+    authors: "Da Yu, Sivakanth Gopi, Janardhan Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang"
+    journal: "Transactions on Machine Learning Research (TMLR), 2024"
+    
 
   - title: "Stabilize Deep ResNet with A Sharp Scaling Factor τ"
     authors: "Huishuai Zhang, Da Yu, Mingyang Yi, Wei Chen, Tie-Yan Liu"
