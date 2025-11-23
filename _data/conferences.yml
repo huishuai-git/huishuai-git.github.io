@@ -21,7 +21,6 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
-
   - title: "English as Defense Proxy: Mitigating Multilingual Jailbreak via Eliciting English Safety Knowledge"
     authors: "Zekai Zhang, Yiduo Guo, Jiuheng Lin, Shanghaoran Quan, Huishuai Zhang, Dongyan Zhao"
     conference: "EMNLP 2025"
