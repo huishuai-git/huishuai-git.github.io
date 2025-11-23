@@ -21,6 +21,42 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
+
+  - title: "English as Defense Proxy: Mitigating Multilingual Jailbreak via Eliciting English Safety Knowledge"
+    authors: "Zekai Zhang, Yiduo Guo, Jiuheng Lin, Shanghaoran Quan, Huishuai Zhang, Dongyan Zhao"
+    conference: "EMNLP 2025"
+    notes: "CCF-A"
+
+  - title: "VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format"
+    authors: "Yueqian Wang, Xiaojun Meng, Yuxuan Wang, Jianxin Liang, Jiansheng Wei, Huishuai Zhang, Dongyan Zhao"
+    conference: "EMNLP 2025"
+    notes: "CCF-A"
+
+  - title: "ReMamba: Equip Mamba with Effective Long-Sequence Modeling"
+    authors: "Danlong Yuan, Jiahao Liu, Bei Li, Huishuai Zhang, Jingang Wang, Xunliang Cai, Dongyan Zhao"
+    conference: "EMNLP 2025"
+    notes: "CCF-A"
+
+  - title: "Understanding Visual Detail Hallucinations of Large Vision-Language Models"
+    authors: "Xiaoxi Sun, Jianxin Liang, Yueqian Wang, Huishuai Zhang, Dongyan Zhao"
+    conference: "IJCAI 2025"
+    notes: "CCF-A"
+  
+  - title: "Efficient Domain Continual Pretraining by Mitigating the Stability Gap"
+    authors: "Yiduo Guo, Jie Fu, Huishuai Zhang, Dongyan Zhao"
+    conference: "ACL 2025 (Volume 1 – Long Papers)"
+    notes: "CCF-A"
+
+  - title: "ReasVQA: Advancing VideoQA with Imperfect Reasoning Process"
+    authors: "Jianxin Liang, Xiaojun Meng, Huishuai Zhang, Yueqian Wang, Jiansheng Wei, Dongyan Zhao"
+    conference: "NAACL 2025 (Long Papers)"
+    notes: "CCF-A"
+   
+  - title: "xRAG: Extreme Context Compression for Retrieval-Augmented Generation with One Token"
+    authors: "Xiaoya Cheng, Xudong Wang, Xiaochuang Zhang, Tao Ge, Huishuai Zhang*"
+    conference: "NeurIPS 2024"
+    notes: "CCF-A"
+  
   - title: "Randomly-reshuffled Adam can provably converge under non-uniform smoothness"
     authors: "Bohan Wang, Yushun Zhang, Huishuai Zhang^*, Qi Meng, Ruoyu Sun, Zhi-Ming Ma, Tie-Yan Liu, Zhi-Quan Luo, Wei Chen"
     conference: "KDD 2024"
