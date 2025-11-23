@@ -20,10 +20,6 @@ main:
   #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
-
-  - title: "Copyright Plug-in Authorization for Human Content Copyright Protection in Text-to-Image Model"
-    authors: "Chao Zhou, Huishuai Zhang, Jiang Bian, Weiming Zhang, Nenghai Yu"
-    journal: "ArXiv"
     
   - title: "Automatic Jailbreaking of the Text-to-Image Generative AI Systems"
     authors: "Minseon Kim, Hyomin Lee, Boqing Gong, Huishuai Zhang and Sung Ju Hwang"
@@ -31,7 +27,7 @@ main:
   
   - title: "Normalized/clipped sgd with perturbation for differentially private non-convex optimization"
     authors: "Xiaodong Yang, Huishuai Zhang, Wei Chen and Tie-Yan Liu" 
-    journal: "ArXiv, submitted to TMLR"
+    journal: "ArXiv"
     # notes: "CCF-B"
 
  
