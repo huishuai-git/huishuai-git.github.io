@@ -22,77 +22,52 @@ main:
   #   image: ./assets/img/teaser_example.png
 
 
-- title: "OLion: Approaching the Hadamard Ideal by Intersecting Spectral and Implicit Biases"
-  authors: "Zixiao Wang, Yifei Shen, Huishuai Zhang$^\dagger$"
-  conference: "International Conference on Machine Learning (ICML), 2026"
-  notes: "CCF-A"
-
-- title: "Swe-minisandbox: Container-free reinforcement learning for building software engineering agents"
-  authors: "Danlong Yuan, Wei Wu, Zhengren Wang, Xueliang Zhao, Huishuai Zhang$^\dagger$, Dongyan Zhao$^\dagger$"
-  conference: "International Conference on Machine Learning (ICML), 2026"
-  notes: "CCF-A"
-
-- title: "Do LLMs ``Feel''? Emotion Circuits Discovery and Control"
-  authors: "Chenxi Wang, Yixuan Zhang, Ruiji Yu, Yufei Zheng, Lang Gao, Zirui Song, Zixiang Xu, Gus Xia, Huishuai Zhang, Dongyan Zhao, Xiuying Chen"
-  conference: "International Conference on Machine Learning (ICML), 2026"
-  notes: "CCF-A"
-
-- title: "Deep Sparse Embedding: Pushing the Sparsity Frontier of Large Language Models with Lookup Operation"
-  authors: "Xin Cheng, Wangding Zeng, Damai Dai, Qinyu Chen, Bingxuan Wang, Zhenda Xie, Kezhao Huang, Xingkai Yu, Zhewen Hao, Han Zhang, Yu-Kun Li, Huishuai Zhang$^\dagger$, Dongyan Zhao$^\dagger$, Wenfeng Liang$^\dagger$"
-  conference: "Annual Meeting of the Association for Computational Linguistics (ACL), 2026"
-  notes: "CCF-A"
-
-- title: "De-Anonymization at Scale: Authorship Attribution via Sequential Progression"
-  authors: "Lirui Zhang, Huishuai Zhang$^\dagger$"
-  conference: "Annual Meeting of the Association for Computational Linguistics (ACL), 2026"
-  notes: "CCF-A"
-
-- title: "Shorten After You are Right: Lazy Length Penalties for Reasoning RL"
-  authors: "Danlong Yuan, Tian Xie, Shaohan Huang, Huishuai Zhang$^\dagger$, Zhuocheng Gong, Chong Luo, Furu Wei, Dongyan Zhao$^\dagger$"
-  conference: "Findings of the Association for Computational Linguistics (ACL Findings), 2026"
-  notes: "CCF-A"
-
-- title: "MMDuet2: Enhancing Proactive Interaction of Video MLLMs with Multi-Turn Reinforcement Learning"
-  authors: "Yueqian Wang, Songxiang Liu, Disong Wang, Nuo Xu, Wan Guanglu, Huishuai Zhang$^\dagger$, Dongyan Zhao$^\dagger$"
-  conference: "International Conference on Learning Representations (ICLR), 2026"
-  notes: "CCF-A"
-
-- title: "FREAK: A Fine-grained Hallucination Evaluation Benchmark for Advanced MLLMs"
-  authors: "Zhihan Yin, Jianxin Liang, Yueqian Wang, Yifeng Yao, Huishuai Zhang$^\dagger$, Dongyan Zhao$^\dagger$"
-  conference: "International Conference on Learning Representations (ICLR), 2026"
-  notes: "CCF-A"
-
-
-- title: "Deep Sparse Embedding: Pushing the Sparsity Frontier of Large Language Models with Lookup Operation"
-  authors: "Xin Cheng, Wangding Zeng, Damai Dai, Qinyu Chen, Bingxuan Wang, Zhenda Xie, Kezhao Huang, Xingkai Yu, Zhewen Hao, Han Zhang, Yu-Kun Li, Huishuai Zhang$^\\dagger$, Dongyan Zhao$^\\dagger$, Wenfeng Liang$^\\dagger$"
-  conference: "Annual Meeting of the Association for Computational Linguistics (ACL), 2026"
-  notes: "CCF-A"
-
-- title: "De-Anonymization at Scale: Authorship Attribution via Sequential Progression"
-  authors: "Lirui Zhang, Huishuai Zhang$^\\dagger$"
-  conference: "Annual Meeting of the Association for Computational Linguistics (ACL), 2026"
-  notes: "CCF-A"
-
-- title: "Shorten After You are Right: Lazy Length Penalties for Reasoning RL"
-  authors: "Danlong Yuan, Tian Xie, Shaohan Huang, Huishuai Zhang$^\\dagger$, Zhuocheng Gong, Chong Luo, Furu Wei, Dongyan Zhao$^\\dagger$"
-  conference: "Findings of the Association for Computational Linguistics (ACL Findings), 2026"
-  notes: "CCF-A"
-
-- title: "MMDuet2: Enhancing Proactive Interaction of Video MLLMs with Multi-Turn Reinforcement Learning"
-  authors: "Yueqian Wang, Songxiang Liu, Disong Wang, Nuo Xu, Wan Guanglu, Huishuai Zhang$^\\dagger$, Dongyan Zhao$^\\dagger$"
-  conference: "International Conference on Learning Representations (ICLR), 2026"
-  notes: "CCF-A"
-
-- title: "FREAK: A Fine-grained Hallucination Evaluation Benchmark for Advanced MLLMs"
-  authors: "Zhihan Yin, Jianxin Liang, Yueqian Wang, Yifeng Yao, Huishuai Zhang$^\\dagger$, Dongyan Zhao$^\\dagger$"
-  conference: "International Conference on Learning Representations (ICLR), 2026"
-  notes: "CCF-A"
+  - title: "OLion: Approaching the Hadamard Ideal by Intersecting Spectral and Implicit Biases"
+    authors: "Zixiao Wang, Yifei Shen, Huishuai Zhang$^*$"
+    conference: "International Conference on Machine Learning (ICML), 2026"
+    notes: "CCF-A"
   
+  - title: "Swe-minisandbox: Container-free reinforcement learning for building software engineering agents"
+    authors: "Danlong Yuan, Wei Wu, Zhengren Wang, Xueliang Zhao, Huishuai Zhang$^*$, Dongyan Zhao$^*$"
+    conference: "International Conference on Machine Learning (ICML), 2026"
+    notes: "CCF-A"
+  
+  - title: "Do LLMs ``Feel''? Emotion Circuits Discovery and Control"
+    authors: "Chenxi Wang, Yixuan Zhang, Ruiji Yu, Yufei Zheng, Lang Gao, Zirui Song, Zixiang Xu, Gus Xia, Huishuai Zhang, Dongyan Zhao, Xiuying Chen"
+    conference: "International Conference on Machine Learning (ICML), 2026"
+    notes: "CCF-A"
+  
+  - title: "Deep Sparse Embedding: Pushing the Sparsity Frontier of Large Language Models with Lookup Operation"
+    authors: "Xin Cheng, Wangding Zeng, Damai Dai, Qinyu Chen, Bingxuan Wang, Zhenda Xie, Kezhao Huang, Xingkai Yu, Zhewen Hao, Han Zhang, Yu-Kun Li, Huishuai Zhang$^*$, Dongyan Zhao$^*$, Wenfeng Liang$^*$"
+    conference: "Annual Meeting of the Association for Computational Linguistics (ACL), 2026"
+    notes: "CCF-A"
+  
+  - title: "De-Anonymization at Scale: Authorship Attribution via Sequential Progression"
+    authors: "Lirui Zhang, Huishuai Zhang$^*$"
+    conference: "Annual Meeting of the Association for Computational Linguistics (ACL), 2026"
+    notes: "CCF-A"
+  
+  - title: "Shorten After You are Right: Lazy Length Penalties for Reasoning RL"
+    authors: "Danlong Yuan, Tian Xie, Shaohan Huang, Huishuai Zhang$^*$, Zhuocheng Gong, Chong Luo, Furu Wei, Dongyan Zhao$^*$"
+    conference: "Findings of the Association for Computational Linguistics (ACL Findings), 2026"
+    notes: "CCF-A"
+  
+  - title: "MMDuet2: Enhancing Proactive Interaction of Video MLLMs with Multi-Turn Reinforcement Learning"
+    authors: "Yueqian Wang, Songxiang Liu, Disong Wang, Nuo Xu, Wan Guanglu, Huishuai Zhang$^*$, Dongyan Zhao$^*$"
+    conference: "International Conference on Learning Representations (ICLR), 2026"
+    notes: "CCF-A"
+  
+  - title: "FREAK: A Fine-grained Hallucination Evaluation Benchmark for Advanced MLLMs"
+    authors: "Zhihan Yin, Jianxin Liang, Yueqian Wang, Yifeng Yao, Huishuai Zhang$^*$, Dongyan Zhao$^*$"
+    conference: "International Conference on Learning Representations (ICLR), 2026"
+    notes: "CCF-A"
+  
+    
   - title: "Synthesize Privacy-Preserving High-Resolution Images via Private Textual Intermediaries"
     authors: "Haoxiang Wang, Zinan Lin, Da Yu, Huishuai Zhang$^*$"
     conference: "Conference on Neural Information Processing Systems (NeurIPS), 2025"
     notes: "CCF-A"
-
+  
 
   - title: "AdamS: Momentum Itself Can Be A Normalizer for LLM Pretraining and Post-training"
     authors: "Huishuai Zhang^$, Bohan Wang^$, Luoxin Chen"
